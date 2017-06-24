@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RootServer>
+  <Version no="2.0.0.0" desc="服务器端版本号"></Version>
+  <ServerDownUrl url="http://192.20.1.2/down/" desc="升级地址"></ServerDownUrl>
+  <FileZip filename="down.zip" hash="HKSDFAK398438403SDFJ" desc="服务器端升级压缩包名称及哈希值"></FileZip>
+</RootServer>

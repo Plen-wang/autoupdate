@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootLocal>
+  <Version no="1.0.0.0" remark="本地版本号">
+  </Version>
+  <ServerDownUrl url="http://192.20.1.16:8088/HomePage/" remark="升级地址">
+  </ServerDownUrl>
+  <ApplicationName name="HZ.BidSystem.Manage" remark="应用程序名称">
+  </ApplicationName>
+</RootLocal>
